@@ -1,5 +1,4 @@
-# project-tensorflow
-Image Recognition Predictive Models
+# Image Recognition Predictive Models.
 I've combined machine learning and web development to create Image Recognition Predictive Models.
 
 This is the first kick-start and it tooks 6 hours to coding and testing the models. I'm using tensorflow as the machine to predict the image, and also some search and help from any source.
